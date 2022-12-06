@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[60px] flex justify-between bg-neutral-900/50 items-center px-4 bg-[#0a192f] text-gray-300">
       <div className="p-4">
-        <img src={Logo} alt="Logo Image" style={{ width: "100px" }} />
+        <img src={Logo} alt="logo" style={{ width: "100px" }} />
       </div>
 
       {/* menu */}
