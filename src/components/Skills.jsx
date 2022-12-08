@@ -7,6 +7,7 @@ import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
+import SQL from "../assets/sql.png";
 
 const Skills = () => {
   return (
@@ -99,6 +100,19 @@ const Skills = () => {
                 <div
                   className="h-full rounded-full bg-yellow-500"
                   style={{ width: `55%` }}
+                />
+              </div>
+            </div>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={SQL} alt="SQL icon" />
+            <p className="my-4">SQL</p>
+            <div className="flex m-4">
+              <span className="ml-2 text-sm font-medium"></span>
+              <div className="h-5 w-full overflow-hidden rounded-full bg-neutral-300">
+                <div
+                  className="h-full rounded-full bg-yellow-500"
+                  style={{ width: `35%` }}
                 />
               </div>
             </div>
