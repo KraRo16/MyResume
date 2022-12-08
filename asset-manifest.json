@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyResume/static/css/main.ea6e6d88.css",
+    "main.js": "/MyResume/static/js/main.1da09686.js",
+    "static/media/filmoteka.png": "/MyResume/static/media/filmoteka.c304d138409e66e91e8e.png",
+    "static/media/webstudio.png": "/MyResume/static/media/webstudio.df02b141c84b0e89f886.png",
+    "static/media/icecream.png": "/MyResume/static/media/icecream.2c15cbb89c1750403e9b.png",
+    "static/media/header-background.webp": "/MyResume/static/media/header-background.4de936ee3497a47391d3.webp",
+    "static/media/react.png": "/MyResume/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/MyResume/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mylogo.png": "/MyResume/static/media/mylogo.9e9991352d72de4609f6.png",
+    "static/media/github.png": "/MyResume/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/MyResume/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/MyResume/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/MyResume/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/MyResume/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/MyResume/index.html",
+    "main.ea6e6d88.css.map": "/MyResume/static/css/main.ea6e6d88.css.map",
+    "main.1da09686.js.map": "/MyResume/static/js/main.1da09686.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea6e6d88.css",
+    "static/js/main.1da09686.js"
+  ]
+}
