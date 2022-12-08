@@ -1,6 +1,6 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
-import headerBackground from "../assets/header-background.webp";
+import headerBackground from "../../assets/header-background.webp";
 import { Link } from "react-scroll";
 
 const Home = () => {

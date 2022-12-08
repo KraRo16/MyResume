@@ -1,5 +1,5 @@
 import React from "react";
-import { data } from "../data/data.js";
+import { data } from "../../data/data.js";
 
 const Work = () => {
   // projects file
@@ -23,11 +23,11 @@ const Work = () => {
             <div
               key={index}
               style={{ backgroundImage: `url(${item.image})` }}
-              className="transition duration-150 ease-out hover:ease-in shadow-lg shadow-[#040c16] group container rounded-md 
+              className="transition duration-300 ease-out hover:ease-in shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center  mx-auto content-div "
             >
               {/* Hover effect for images */}
-              <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="opacity-0 group-hover:opacity-100  hover:text-white ease-linear duration-200 ">
                 <span className="text-1xl font bold text-white tracking-wider ">
                   {item.name}
                 </span>
@@ -36,7 +36,7 @@ const Work = () => {
                   <a href={item.github} target="_blank">
                     <button
                       className="text-center rounded-lg px-4 py-3 m-2
-                       bg-white text-gray-700 font-bold text-lg"
+                       bg-white text-gray-700 font-bold text-lg hover:bg-yellow-500 hover:border-yellow-500 hover:text-white ease-linear duration-300"
                     >
                       Code
                     </button>
@@ -45,7 +45,7 @@ const Work = () => {
                   <a href={item.live} target="_blank">
                     <button
                       className="text-center rounded-lg px-4 py-3 m-2
-                       bg-white text-gray-700 font-bold text-lg"
+                       bg-white text-gray-700 font-bold text-lg hover:bg-yellow-500 hover:border-yellow-500 hover:text-white ease-linear duration-300"
                     >
                       Live
                     </button>
