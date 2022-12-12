@@ -7,7 +7,7 @@ const About = () => {
       className="    w-full
     h-screen
     bg-gradient-to-r
-    from-green-600
+    from-blue-600
     via-red-500
     to-yellow-500
     background-animate text-gray-300"
